@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/byron993-google-scholar-mcp-badge.png)](https://mseep.ai/app/byron993-google-scholar-mcp)
+
 # Google Scholar MCP Server (Optimized for Cherry Studio)
 
 An MCP-based Google Scholar search service optimized for Cherry Studio, providing academic paper search, abstract retrieval, and supporting both Chinese and English queries.
